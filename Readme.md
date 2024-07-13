@@ -4,6 +4,9 @@ Hey there,
    - **Materials Data**: Gather comprehensive data on materials commonly used in aircraft design, including their properties, costs, and suppliers.
    - **Component Data**: Collect detailed information on the various components used in different types of planes.
 
+Components to be considered for sure 
+Fuselage: Length, diameter, material, weight, drag coefficientWings: Span, area, aspect ratio, airfoil type, material, weightEmpennage (Tail Section): Horizontal stabilizer area, vertical stabilizer area, material, weightEngine: Type, thrust, weight, fuel efficiency, number of enginesLanding Gear: Type, weight, material, retraction mechanismAvionics: Type, weight, power consumption, functionalityControl Surfaces: Ailerons, elevators, rudders – size, material, weight
+
 2. **Modeling**:
    - **Generative Design Algorithms**: Utilize generative design algorithms to propose optimal designs based on aerodynamic principles and material properties.
    - **Cost Estimation**: Integrate cost estimation algorithms to provide designers with budgetary insights for different design choices.
