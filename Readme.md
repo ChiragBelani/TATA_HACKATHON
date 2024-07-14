@@ -1,4 +1,4 @@
-Hey there,
+BOOM BOOM,
 
 1. **Data Collection**:
    - **Materials Data**: Gather comprehensive data on materials commonly used in aircraft design, including their properties, costs, and suppliers.
@@ -8,7 +8,8 @@ Components to be considered for sure.
  
 Fuselage: Length, diameter, material, weight, drag coefficientWings: Span, area, aspect ratio, airfoil type, material, weightEmpennage (Tail Section): Horizontal stabilizer area, vertical stabilizer area, material, weightEngine: Type, thrust, weight, fuel efficiency, number of enginesLanding Gear: Type, weight, material, retraction mechanismAvionics: Type, weight, power consumption, functionalityControl Surfaces: Ailerons, elevators, rudders – size, material, weight
 
-https://www.cosmiqworks.org/rareplanes-public-user-guide/
+https://www.cosmiqworks.org/rareplanes-public-user-guide/ 
+
 https://aero-database.com/
 
 2. **Modeling**:
